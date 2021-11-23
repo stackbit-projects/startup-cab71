@@ -17,18 +17,18 @@ sections:
         showIcon: false
         icon: arrowLeft
         iconPosition: right
-        style: link
+        style: secondary
         elementId: ''
-        type: Link
+        type: Button
       - label: Learn more
         altText: Learn more
         url: /
         showIcon: false
         icon: arrowLeft
         iconPosition: right
-        style: secondary
+        style: link
         elementId: ''
-        type: Button
+        type: Link
       - type: Button
         label: Sign Up
         url: 'https://www.stackbit.com/'

@@ -4,7 +4,7 @@ const sourcebitConfig = require('./sourcebit.js');
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
     enabled: process.env.ANALYZE === 'true',
 });
-test.global; 
+
 sourcebit.fetch(sourcebitConfig);
 
 module.exports = withBundleAnalyzer({

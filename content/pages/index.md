@@ -141,7 +141,7 @@ sections:
           - mt-2
           - mb-2
           - ml-2
-          - mr-2
+          - mr-1
         padding:
           - pt-36
           - pb-20

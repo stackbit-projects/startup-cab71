@@ -151,7 +151,7 @@ sections:
         borderRadius: none
         borderWidth: 0
         borderStyle: none
-        borderColor: border-primary
+        borderColor: border-complementary
       title:
         textAlign: center
       subtitle:

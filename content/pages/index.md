@@ -139,7 +139,9 @@ sections:
         height: auto
         margin:
           - mt-2
-          - mb-0
+          - mb-2
+          - ml-2
+          - mr-2
         padding:
           - pt-36
           - pb-20
